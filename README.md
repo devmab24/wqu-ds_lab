@@ -1,2 +1,2 @@
 # wqu-ds_lab
-Datascience and Machine Learning Lab
+Datascience, AI and Machine Learning Projects
