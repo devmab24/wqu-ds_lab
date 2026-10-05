@@ -516,7 +516,7 @@ been exhausted.
 
 ------------------------------------------------------------------------
 
-# 14. Why This Project Matters Professionally
+# 14. Why this project matters professionally
 
 This project demonstrates more than the ability to call a
 machine-learning library.
@@ -554,7 +554,7 @@ isolated experiments to a reusable ML experimentation framework.
 
 ------------------------------------------------------------------------
 
-# 15. Recommended Presentation
+# 15. Recommended presentation
 
 For a portfolio or GitHub repository, this project should be presented
 primarily as a **machine-learning competition / applied ML engineering
