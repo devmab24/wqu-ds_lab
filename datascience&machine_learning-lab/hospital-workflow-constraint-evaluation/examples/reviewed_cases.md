@@ -15,10 +15,10 @@ The purpose is to examine whether the responses respect the stated operational c
 
 Four scenarios were selected for qualitative review because their standard-prompt responses were recorded as constraint violations during manual evaluation:
 
-- `PWR01` — Power interruptions and record preservation
-- `PWR02` — Intermittent electricity and no immediate infrastructure budget
-- `CMP01` — Limited shared computers and no new purchases this quarter
-- `CMP02` — Limited functioning workstations and competing staff responsibilities
+- `PWR01` - Power interruptions and record preservation
+- `PWR02` - Intermittent electricity and no immediate infrastructure budget
+- `CMP01` - Limited shared computers and no new purchases this quarter
+- `CMP02` - Limited functioning workstations and competing staff responsibilities
 
 The review considers whether the recommendations are compatible with the stated constraints and whether the alternative response offers a more feasible approach.
 
@@ -56,7 +56,7 @@ The constraint-aware response makes the resource uncertainty explicit before rec
 
 **Review finding:** The constraint-aware response demonstrates better explicit handling of missing information. The severity of the standard response's violation should be verified against the full response and the original scoring criteria.
 
-### PWR02 — Administrative Work Without Immediate Infrastructure Upgrades
+### PWR02 - Administrative Work Without Immediate Infrastructure Upgrades
 
 **Explicit constraints**
 - The facility has intermittent electricity.
@@ -88,7 +88,7 @@ The constraint-aware response is more closely aligned with the budget limitation
 
 **Review finding:** The standard response risks relying on new infrastructure expenditure. The constraint-aware response better emphasizes resource-constrained alternatives, but it should avoid adding unsupported constraints.
 
-### CMP01 — Routine Digital Records With Limited Shared Computers
+### CMP01 - Routine Digital Records With Limited Shared Computers
 
 **Explicit constraints**
 - Several staff members share limited computers.
@@ -112,7 +112,7 @@ Both approaches appear compatible with the scenario in the visible text. The con
 
 **Review finding:** Based on the supplied excerpts, a constraint violation cannot be independently confirmed for `CMP01`. The recorded manual violation label should be checked against the complete model response and scoring notes before this example is presented as evidence.
 
-### CMP02 — Scheduling Administrative Tasks With Few Workstations
+### CMP02 - Scheduling Administrative Tasks With Few Workstations
 
 **Explicit constraints**
 - Only a few functioning workstations are available.
