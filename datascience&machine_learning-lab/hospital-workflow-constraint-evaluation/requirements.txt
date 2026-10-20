@@ -1,0 +1,9 @@
+# Dependencies for the hospital operational-constraints evaluation notebook.
+# Install PyTorch using the command appropriate for your OS and CUDA/runtime:
+# https://pytorch.org/get-started/locally/
+torch
+transformers
+accelerate
+huggingface_hub
+pandas
+numpy
