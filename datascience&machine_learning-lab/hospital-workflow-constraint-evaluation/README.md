@@ -99,11 +99,11 @@ The evaluation dataset contains 15 fictional hospital operations scenarios.
 
 | Category | Scenario IDs | Count |
 |---|---|---:|
-| Power outages | PWR01–PWR03 | 3 |
-| Software failures | SW01–SW03 | 3 |
-| Computer availability | CMP01–CMP03 | 3 |
-| Staff guidance | STF01–STF03 | 3 |
-| Incomplete records | REC01–REC02 | 2 |
+| Power outages | PWR01-PWR03 | 3 |
+| Software failures | SW01-SW03 | 3 |
+| Computer availability | CMP01-CMP03 | 3 |
+| Staff guidance | STF01-STF03 | 3 |
+| Incomplete records | REC01-REC02 | 2 |
 | Combined constraints | MIX01 | 1 |
 | **Total** | | **15** |
 
@@ -156,9 +156,9 @@ The maximum total score is 8 per response.
 
 A separate binary field, `constraint_violation`, records whether an explicit operational constraint violation was identified:
 
-- `1` — violation recorded
-- `0` — no violation recorded
-- `NA` — unclear or not assessable
+- `1` - violation recorded
+- `0` - no violation recorded
+- `NA` - unclear or not assessable
 
 The violation measure is separate from the total quality score.
 
